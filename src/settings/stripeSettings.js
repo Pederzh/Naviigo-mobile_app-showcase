@@ -1,0 +1,8 @@
+export const STRIPE = {
+    PUBLIC_KEY: 'HIDDEN',
+    //SECRET_KEY: 'HIDDEN',
+    SKU_NAME: 'HIDDEN',
+    SESSION_ID: 'HIDDEN',
+    SUCCESS_URL: 'HIDDEN',
+    CANCELED_URL: 'HIDDEN',
+};

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "HIDDEN",
+    "firebase_url": "HIDDEN",
+    "project_id": "naviigo",
+    "storage_bucket": "HIDDEN"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "HIDDEN",
+        "android_client_info": {
+          "package_name": "com.naviigo.naviigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "HIDDEN",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "HIDDEN"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "HIDDEN",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

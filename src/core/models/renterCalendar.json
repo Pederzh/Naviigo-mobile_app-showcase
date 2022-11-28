@@ -1,0 +1,47 @@
+{
+  "userId": 1351,
+  "openingTime": [
+    {
+      "code": "0",
+      "day": "sunday",
+      "from": "8:00",
+      "to": "19:00"
+    },
+    {
+      "code": "1",
+      "day": "monday",
+      "from": null,
+      "to": null
+    },
+    {
+      "code": "2",
+      "day": "tuesday",
+      "from": "8:00",
+      "to": "19:00"
+    },
+    {
+      "code": "3",
+      "day": "wednesday",
+      "from": "8:00",
+      "to": "19:00"
+    },
+    {
+      "code": "4",
+      "day": "thursday",
+      "from": "8:00",
+      "to": "19:00"
+    },
+    {
+      "code": "5",
+      "day": "friday",
+      "from": "8:00",
+      "to": "19:00"
+    },
+    {
+      "code": "6",
+      "day": "saturday",
+      "from": "8:00",
+      "to": "19:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "city": "Tremezzina",
+      "county": "Como",
+      "country": "Italy",
+      "distance": "500m"
+    },
+    {
+      "id": 2,
+      "city": "Menaggio",
+      "county": "Como",
+      "country": "Italy",
+      "distance": "10km"
+    },
+    {
+      "id": 3,
+      "city": "Sala Comacina",
+      "county": "Como",
+      "country": "Italy",
+      "distance": "1km"
+    },
+    {
+      "id": 4,
+      "city": "Argegno",
+      "county": "Como",
+      "country": "Italy",
+      "distance": "5km"
+    }
+  ]
+}

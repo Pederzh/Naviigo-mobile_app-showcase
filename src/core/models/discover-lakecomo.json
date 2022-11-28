@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Villa Oleandra (G. Clooney) – Laglio",
+    "address": "Via Vecchia Regina, 20, 22010 Laglio CO",
+    "latitude": 45.880083,
+    "longitude": 9.138635,
+    "description": "La settecentesca Villa Oleandra a Laglio è l’ormai arcinota dimora estiva di George Clooney, che fin dal 2002 ha scelto questo tranquillo paese posto sulla sponda occidentale del Lago di Como per trascorrere le sue vacanze, talvolta in compagnia di altre celebrità di Hollywood",
+    "image": "S3_URL/img-lakecomo/villa-oleandra.jpg"
+  },
+  {
+    "name": "Villa Fontanelle (G. Versace) – Moltrasio",
+    "address": "Via Regina, 1, 22010 Moltrasio CO",
+    "latitude": 45.851981,
+    "longitude": 9.089947,
+    "description": "Villa Fontanelle è una villa (a volte chiamata Palazzo Fontanelle) vicino a Moltrasio, sul lago di Como, a circa 50 chilometri da Milano.",
+    "image": "S3_URL/img-lakecomo/villa-fontanelle.jpg"
+  },
+  {
+    "name": "G.H. Villa d’Este – Cernobbio",
+    "address": "Via Regina, 40, 22012 Cernobbio CO",
+    "latitude": 45.845083,
+    "longitude": 9.078709,
+    "description": "Villa d'Este, in origine Villa del Garovo, è una residenza patrizia rinascimentale situata sulle rive del Lago di Como nel comune di Cernobbio.",
+    "image": "S3_URL/img-lakecomo/villa-deste.jpg"
+  },
+  {
+    "name": "Villa Erba – Cernobbio",
+    "address": "Largo Luchino Visconti, 4, 22012 Cernobbio CO",
+    "latitude": 45.838185,
+    "longitude": 9.077199,
+    "description": "Villa Erba di Cernobbio è una delle più importanti ville del Lago di Como. Fu costruita fra il 1898 e il 1901 su progetto degli architetti Angelo Savoldi e Giovan Battista Borsani. Committente fu Luigi Erba, fratello ed erede di Carlo, uno dei maggiori industriali farmaceutici dell'epoca",
+    "image": "S3_URL/img-lakecomo/villa-erba.jpeg"
+  },
+  {
+    "name": "Villa Pliniana – Torno",
+    "address": "Via Cesare Poggi, 29, 22020 Torno CO",
+    "latitude": 45.857065,
+    "longitude": 9.13274,
+    "description": "La villa, situata in un'insenatura boscosa del lago, prese il nome da Plinio il Giovane, che descrisse una fonte intermittente di natura carsica. Un riferimento alla fonte è riscontrabile anche nell'opera Naturalis Historia di Plinio il Vecchio, in cui si riporta che «Nel territorio comense, presso le rive del lago Lario, c’è una fonte copiosa che sempre cresce e cala ogni ora». Nel Codice Leicester e nel Codice Atlantico, Leonardo Da Vinci descrisse una sua visita alla fonte avvenuta pochi anni prima che venisse eretto il palazzo. Leonardo si recava nella zona del lago, su incarico del Ducato di Milano, alla ricerca di minerali ferrosi necessari per produrre armi, attrezzi agricoli ed utensili.",
+    "image": "S3_URL/img-lakecomo/villa-pliniana.jpg"
+  },
+  {
+    "name": "Orrido di Nesso",
+    "address": "22020 Nesso CO",
+    "latitude": 45.910642,
+    "longitude": 9.155507,
+    "description": "Nesso è un piccolo borgo tra la montagna ed il lago caratterizzato da una suggestiva gola che taglia in due il paese. Nell’orrido di Nesso due torrenti si incontrano e si gettano nel lago dopo una spettacolare cascata di 200 metri.",
+    "image": "S3_URL/img-lakecomo/orrido-nesso.jpg"
+  },
+  {
+    "name": "Villa Lucertola (Guinness) – Lezzeno",
+    "address": "Bellagio - ponte del diavolo, 22025, 22025 Lezzeno CO",
+    "latitude": 45.962344,
+    "longitude": 9.224985,
+    "description": "Procedendo da Como in direzione Bellagio, si giunge a Lezzeno dove si trova la famosa Villa Lucertola. La villa è situata in un luogo incantevole del lago ma anche molto suggestivo.",
+    "image": "S3_URL/img-lakecomo/villa-lucertola.jpg"
+  },
+  {
+    "name": "Villa Melzi d’Eril – Bellagio",
+    "address": "Lungo Lario Manzoni, 22021 Bellagio CO",
+    "latitude": 45.978982,
+    "longitude": 9.253055,
+    "description": "Villa Melzi d'Eril è una dimora storica privata situata nel comune di Bellagio, di proprietà della famiglia Melzi d'Eril, oggi del suo ramo Gallarati Scotti, proclamata, con la proprietà circostante, monumento nazionale.",
+    "image": "S3_URL/img-lakecomo/villa-melzi.jpg"
+  },
+  {
+    "name": "Villa Serbelloni – Fondazione Rockefeller – Bellagio",
+    "address": "Via Giuseppe Garibaldi, 32, 22021 Bellagio CO",
+    "latitude": 45.987787,
+    "longitude": 9.26358,
+    "description": "Si pensa che lo stesso promontorio fosse sede della villa Tragedia di Plinio il Giovane",
+    "image": "S3_URL/img-lakecomo/villa-serbelloni.jpg"
+  },
+  {
+    "name": "G.H. Villa Serbelloni – Bellagio",
+    "address": "Via Roma, 1, 22021 Bellagio CO",
+    "latitude": 45.989383,
+    "longitude": 9.261161,
+    "description": "Grand Hotel Villa Serbelloni è uno degli alberghi più antichi ed eleganti di tutta la zona del lago di Como ed è l'unico 5 stelle lusso di Bellagio. Da aprile a novembre i suoi salotti e il grande giardino in riva al lago offrono agli ospiti la possibilità di vivere una vacanza lontano dalla folla, vicino alla natura e immersi in uno dei panorami più belli del mondo.Gli amanti della quiete potranno alternare il piacere di un drink accanto alla piscina ai trattamenti e ai programmi di bellezza di Villa Serbelloni SPA, la beauty farm dell'hotel. Ma potranno anche partire dal pontile privato dell'albergo per andare in motoscafo a visitare i giardini storici del lago che a primavera attraggono turisti da tutto il mondo per ammirare la particolare fioritura di azalee.",
+    "image": "S3_URL/img-lakecomo/gh-serbelloni.jpg"
+  },
+  {
+    "name": "Villa Monastero – Varenna",
+    "address": "Viale Giovanni Polvani, 2, 23829 Varenna LC",
+    "latitude": 46.009533,
+    "longitude": 9.286562,
+    "description": "Villa Monastero è una villa eclettica di gusto nordico. L'edificio è inizialmente un monastero femminile cistercense fondato a fine XII secolo a Varenna, che all'inizio del Seicento viene trasformato dalla famiglia valsassinese Mornico e successivamente ristrutturato e decorato in stile eclettico in particolare tra il 1897 e il 1909 dal suo ultimo proprietario tedesco Walter Kees, della città di Lipsia. L'ultimo intervento amplia inoltre il giardino. Nel 1936 la villa viene donata per diventare bene pubblico e museo tramite volere testamentario del corrente proprietario, il naturalista milanese di origini svizzere Marco De Marchi. Nel 1940 viene aperto al pubblico il giardino e nel 1953 viene creato il centro congressi. Negli anni Settanta il compendio è di proprietà del Consiglio Nazionale delle Ricerche e la villa è gestita dall'amministrazione della Provincia di Como",
+    "image": "S3_URL/img-lakecomo/villa-monastero.jpg"
+  },
+  {
+    "name": "Villa Cipressi – Varenna",
+    "address": "Via 4 Novembre, 18, 23829 Varenna LC",
+    "latitude": 46.009991,
+    "longitude": 9.284649,
+    "description": "Villa Cipressi costituisce con la confinante Villa Monastero  il centro studi, convegni e congressi di  Varenna. Gode di una posizione panoramica privilegiata, trovandosi sulla punta del borgo e si affaccia sul ramo lecchese del Lago di Como. La villa è un complesso di edifici, costruiti tra il 1400 e il 1800, e rappresenta uno dei più interessanti aspetti architettonici del tardo Rinascimento, cui si sono aggiunti pregevoli apporti neoclassici, ben apprezzabili nella facciata a lago.",
+    "image": "S3_URL/img-lakecomo/villa-cipressi.jpg"
+  },
+  {
+    "name": "Villa La Gaeta – S. Siro",
+    "address": "SS340dir, 12, 22010 San Siro CO",
+    "latitude": 46.040798,
+    "longitude": 9.25091,
+    "description": "Villa La Gaeta deve il suo nome alla punta del promontorio sul quale è stata costruita. Precedentemente, il sito era occupato da un'altra dimora, decisamente più modesta, acquisita da Solone Ambrosoli, numismatico italiano vissuto tra il 1851 e il 1906. La progettazione dell'edificio venne assegnata a Gino Coppedè e al fratello Adolfo. Fu completata dagli eredi dell'Ambrosoli nel 1921. Nel 2006, la villa è stata utilizzata come location per le riprese di alcune scene del film Casino Royale.",
+    "image": "S3_URL/img-lakecomo/villa.gaeta.jpg"
+  },
+  {
+    "name": "Villa Carlotta – Tremezzo",
+    "address": "Via Regina, 2, 22016 Tremezzina CO",
+    "latitude": 45.98702,
+    "longitude": 9.230646,
+    "description": "La villa sorge come un edificio di grande imponenza, all'estremità settentrionale del comune di Tremezzina, e il suo ingresso si affaccia sul lago, principale punto di accesso alla villa all'epoca della sua costruzione e fino alla metà del secolo scorso. La sua posizione permette una vista sulla penisola di Bellagio e sulle montagne che circondano il lago. La costruzione della villa risale all'ultimo decennio del Seicento, ed è rappresentativa dell'architettura di villa sul Lago di Como in età barocca.",
+    "image": "S3_URL/img-lakecomo/villa-carlotta.jpg"
+  },
+  {
+    "name": "Grand Hotel Tremezzo Palace – Tremezzo",
+    "address": "Via Regina, 8, 22016 Tremezzo CO",
+    "latitude": 45.985465,
+    "longitude": 9.228401,
+    "description": "Affacciato sul Lago di Como, questo sontuoso hotel in stile Liberty dista 250 m dal museo e giardino botanico Villa Carlotta.",
+    "image": "S3_URL/img-lakecomo/gh-tremezzo.jpg"
+  },
+  {
+    "name": "Villa Sola Cabiati – Tremezzo",
+    "address": "Via Statale, 36, 22019 Tremezzo CO",
+    "latitude": 45.982898,
+    "longitude": 9.214687,
+    "description": "Nata dal genio del Rinascimento e trasformata in ‘villa di delizia’ nel Settecento, Villa Sola Cabiati è una vera e propria opera d’arte: vi accoglierà nei suoi grandi saloni decorati da opulenti stucchi dei migliori artisti dell’epoca e arredati da collezioni di arazzi, dipinti e ceramiche di inestimabile valore per riportarvi ad epoche in cui la raffinatezza non conosceva limiti.",
+    "image": "S3_URL/img-lakecomo/villa-sola.jpg"
+  },
+  {
+    "name": "Villa Balbianello (007) – Lenno",
+    "address": "Via Guido Monzino, 1, 22016 Tremezzina CO",
+    "latitude": 45.96585,
+    "longitude": 9.202621,
+    "description": "Villa del Balbianello è un edificio storico che sorge a Lenno, sulle sponde del lago di Como. La villa è collocata sulla punta della penisola di Lavedo, un promontorio che si spinge nello specchio d'acqua lariano e che proprio dall'edificio ha preso il nome di \"Balbianello\". Il complesso è di proprietà del Fondo Ambiente Italiano.",
+    "image": "S3_URL/img-lakecomo/villa-balbianello.jpg"
+  },
+  {
+    "name": "Villa La Cassinella (R. Branson) – Lenno",
+    "address": "22016 Lenno CO",
+    "latitude": 45.967007,
+    "longitude": 9.195732,
+    "description": "Villa La Cassinella è circondata dal mistero. Questa bellissima residenza lacustre, restaurata negli anni ’20 del secolo scorso dall’ingegnere Carlo Mantegazza, è famosa anche per la privacy di cui i pochi ospiti privilegiati possono godere, dal momento che la villa è raggiungibile esclusivamente via acqua.",
+    "image": "S3_URL/img-lakecomo/villa-cassinella.jpg"
+  },
+  {
+    "name": "Villa il Balbiano – Ossuccio",
+    "address": "Piazza Cardinal Durini, 22010 Ossuccio CO",
+    "latitude": 45.967616,
+    "longitude": 9.186333,
+    "description": "Villa Balbiano fu edificata a Ossuccio per volere del cardinale Tolomeo Gallio su una preesistente costruzione alla fine del XVI secolo utilizzando disegni di Pellegrino Tibaldi, detto il Pellegrini (1527–1596), commissionati dalla famiglia Giovio prima che cedesse la proprietà al cardinale che nel 1586 ottenne la contea delle \"Tre Pievi\" (Gravedona, Sorico e Dongo) sulle rive del lago di Como.",
+    "image": "S3_URL/img-lakecomo/villa-balbiano.jpg"
+  }
+]

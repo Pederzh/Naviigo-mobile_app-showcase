@@ -1,0 +1,92 @@
+{
+  "id": 1,
+  "title": "Book our motorboat: Riva navigo 5",
+  "description": "Enjoy a wonderful experience on the waters of Lake Como on board our motorboat. We provide everything you need. Assurance included.",
+  "maxCapacity": 5,
+  "horsepower": 40,
+  "length": 5,
+  "manufacturer": "riva",
+  "model": "igo 5",
+  "userId": 1351,
+  "user": {
+    "id": "1351",
+    "username": "Nautic Lake Como",
+    "email": "test@host.com",
+    "renter": {
+      "idUser": 1351,
+      "type": "private",
+      "openingTime": [
+        {
+          "idUser": 1351,
+          "day": "monday-friday",
+          "from": "12:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "idUser": 1351,
+          "day": "saturday",
+          "from": "09:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "idUser": 1351,
+          "day": "sunday",
+          "from": "08:00:00",
+          "to": "20:00:00"
+        }
+      ]
+    }
+  },
+  "idAddress": 123456789,
+  "address": {
+    "id": 123456789,
+    "via": "via Amerigo Vespucci",
+    "number": 23,
+    "cityId": 1,
+    "city": {
+      "id": 1,
+      "name": "Tremezzina",
+      "county": "Como",
+      "postalCode": 22016,
+      "state": "Italy"
+    }
+  },
+  "boatPrices": [
+    {
+      "idBoat": 1,
+      "timeSlot": 1,
+      "price": 90,
+      "currency": "$"
+    },
+    {
+      "idBoat": 1,
+      "timeSlot": 2,
+      "price": 160,
+      "currency": "$"
+    },
+    {
+      "idBoat": 1,
+      "timeSlot": 3,
+      "price": 210,
+      "currency": "$"
+    }
+  ],
+  "type": {
+    "code": 5,
+    "type": "motorboat"
+  },
+  "drivingMode": {
+    "code": 1,
+    "description": "without license"
+  },
+  "boatImages": [
+    {
+      "idBoat": 1,
+      "path": "naviigo/assets/img/boat1.jpg"
+    },
+    {
+      "idBoat": 1,
+      "path": "image!naviigo/assets/img/boat2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "boatRatings": [
+    {
+      "idBoat": 1,
+      "stars": 5,
+      "dateTime": "28 mar 2020",
+      "review": "Our experience was incredible!",
+      "idUserReviewer": 10,
+      "userReviewer": {
+        "id": 10,
+        "username": "Pederzh"
+      }
+    },
+    {
+      "idBoat": 1,
+      "stars": 4,
+      "dateTime": "22 mar 2020",
+      "review": "Quite nice boat!",
+      "idUserReviewer": 1,
+      "userReviewer": {
+        "id": 1,
+        "username": "User_test"
+      }
+    }
+  ]
+}

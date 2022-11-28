@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "naviigo",
+    "scheme": "naviigo",
+    "slug": "naviigo",
+    "privacy": "public",
+    "sdkVersion": "39.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.naviigo.naviigo",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.naviigo.naviigo",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
